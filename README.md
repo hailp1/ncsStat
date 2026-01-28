@@ -82,8 +82,8 @@
 
 ```bash
 # 1. Clone repo
-git clone https://github.com/hailp1/ncsStatcore.git
-cd ncsStatcore
+git clone https://github.com/hailp1/ncsStat.git
+cd ncsStat
 
 # 2. Install dependencies
 npm install
